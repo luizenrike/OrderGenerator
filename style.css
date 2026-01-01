@@ -1,0 +1,23 @@
+.card-height{
+    height: 500px;
+}
+
+.card-body {
+    min-height: 0;
+}
+
+.log-console {
+    overflow-y: auto;
+    background-color: #2e2e2e;
+    color: #eaeaea;
+    padding: 8px;
+    border-radius: 6px;
+    font-family: Consolas, monospace;
+    font-size: 0.85rem;
+    white-space: pre-wrap;
+    word-break: break-word;
+}
+
+.background-bd{
+    background-color: rgb(56, 56, 56);
+}
